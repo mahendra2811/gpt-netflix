@@ -1,0 +1,30 @@
+# .gitignore
+
+# Node.js dependencies
+/node_modules/
+
+# Python cache
+__pycache__/
+
+# Compiled files
+*.o
+*.pyc
+*.class
+
+# Build output directories
+/bin/
+/out/
+/target/
+
+# Log files
+*.log
+*.lock
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE config files
+.idea/
+.vscode/
